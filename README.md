@@ -14,12 +14,6 @@ This project leverages Meta's LLaMA 3.2 model locally via Ollama to automaticall
 
 ---
 
-## 📸 UI Preview
-
-![streamlit-ui-screenshot](./assets/streamlit-ui-preview.png) <!-- Add your screenshot here -->
-
----
-
 ## 🛠️ Technologies Used
 
 - [LLaMA 3.2](https://ollama.com/library/llama3)
@@ -43,5 +37,5 @@ This project leverages Meta's LLaMA 3.2 model locally via Ollama to automaticall
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Vaishnavi639/llama3.2-dockerfile_generato
-cd ai-dockerfile-generator
+git clone https://github.com/Vaishnavi639/llama3.2-dockerfile_generator
+cd local-setup
